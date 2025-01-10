@@ -1,0 +1,1 @@
+This repository showcases a subtle difference in how `removeIf` operates on `MutableList` and `MutableSet` in Kotlin. The `bug.kt` file contains code that demonstrates this difference. The `bugSolution.kt` file provides clarification and explanation.
